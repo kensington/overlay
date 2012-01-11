@@ -1,0 +1,10 @@
+# ChangeLog for dev-php/PEAR-HTML_Common2
+# Copyright 1999-2012 Gentoo Foundation; Distributed under the GPL v2
+# $Header: $
+
+*PEAR-HTML_Common2-2.0.0 (11 Jan 2012)
+
+  11 Jan 2012; <michael@gentoo.org> +PEAR-HTML_Common2-2.0.0.ebuild,
+  +metadata.xml:
+  Import from main tree for version bump.
+
