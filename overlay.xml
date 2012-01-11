@@ -1,0 +1,15 @@
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>kensington</name>
+    <description>kensington user overlayOverlaey of daltomatos</description>
+    <homepage>
+      https://github.com/kensington/overlay/
+    </homepage>
+    <owner>
+      <email>kensington@astralcloak.net</email>
+      <name>Michael</name>
+    </owner>
+    <source type="git">git://github.com/kensington/overlay</source>
+    <feed>https://github.com/kensington/overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
