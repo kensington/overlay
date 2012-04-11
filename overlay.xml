@@ -1,7 +1,7 @@
 <repositories version="1.0">
   <repo quality="experimental" status="unofficial">
     <name>kensington</name>
-    <description>kensington user overlayOverlaey of daltomatos</description>
+    <description>kensington user overlay</description>
     <homepage>
       https://github.com/kensington/overlay/
     </homepage>
