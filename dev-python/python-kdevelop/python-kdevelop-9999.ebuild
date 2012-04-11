@@ -31,4 +31,11 @@ src_configure() {
 
 src_install() {
 	dolib libpython2.7-kdevelop.so*
+
+	insinto /usr/include/python-kdevelop
+	doins -r Include/*
+	doins pyconfig.h
+
+	insinto /usr/share/apps/kdevpythonsupport/encodings
+	doins -r Lib/encodings/*
 }
